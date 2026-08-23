@@ -69,6 +69,7 @@ export default function Profile() {
                 className="mt-2 w-full rounded-lg border border-slate-300 px-4 py-2 text-slate-900"
               />
             </div>
+
             <div className="flex gap-3 pt-4">
             <button
                 type="button"
