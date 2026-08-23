@@ -6,7 +6,8 @@ import Link from "next/link";
 
 export default function Header() {
     return (
-        <header className="w-full bg-gray-900 text-white absolute inset-x-0 top-0 z-50 flex justify-between px-10 py-5">
+        <header className="w-full bg-gray-900 text-white absolute inset-x-0 top-0 z-50 
+        flex justify-between px-10 py-5">
             <div>
                 <h2>Panel de Administracion</h2>
             </div>
